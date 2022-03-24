@@ -1,0 +1,10 @@
+/**
+ * Tutorials > 10 Days of Statistics > Day 2: Compound Event Probability
+ *
+ * https://www.hackerrank.com/challenges/s10-mcq-3/
+ * @author lizarragadev
+ *
+*/
+
+
+17/42
