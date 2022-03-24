@@ -1,0 +1,10 @@
+/**
+ * Tutorials > 10 Days of Statistics > Day 3: Conditional Probability
+ *
+ * https://www.hackerrank.com/challenges/s10-mcq-4/
+ * @author lizarragadev
+ *
+*/
+
+
+1/3
