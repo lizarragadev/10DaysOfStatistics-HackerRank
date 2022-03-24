@@ -1,0 +1,10 @@
+/**
+ * Tutorials > 10 Days of Statistics > Day 2: Basic Probability
+ *
+ * https://www.hackerrank.com/challenges/s10-mcq-1/
+ * @author lizarragadev
+ *
+*/
+
+
+5/6
